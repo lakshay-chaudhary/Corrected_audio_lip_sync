@@ -1,5 +1,10 @@
 # Corrected_audio_lip_sync 
 
+
+https://github.com/user-attachments/assets/9b958b6e-533b-433a-b027-bdd3b2874d51
+
+
+
 Files are present in the master branch of this repo 
 # Video Audio Transcription and Correction
 
